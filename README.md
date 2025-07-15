@@ -22,7 +22,6 @@ Languages:
 
 ### Ways to Contact Me
 [LinkedIn](https://www.linkedin.com/in/km-clarkson/)
-[Email](ekdt@comcast.net)
 
 
 <!---
